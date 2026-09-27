@@ -1,5 +1,9 @@
 # ESP Reboot Switch
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![ESPHome](https://img.shields.io/badge/ESPHome-2026.9.0-blue.svg)](https://esphome.io)
+[![ESP8266](https://img.shields.io/badge/Hardware-ESP8266-orange.svg)](https://www.espressif.com/en/products/socs/esp8266)
+
 Умное реле для перезагрузки оборудования по питанию со встроенным веб-интерфейсом на базе ESP8266 и ESPHome.
 
 ## 🎯 Основная задача
